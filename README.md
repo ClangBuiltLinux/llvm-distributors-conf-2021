@@ -23,11 +23,14 @@ Thursday September 16 2021, times to be determined.
 
 ## Call For Papers (CFP)
 
-Please file an issue at TODO with a proposal. The CFP deadline is Thursday
-September 9; one week before the conference. We will add a schedule here with
-accepted talks.
+Please file an issue at
+https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues with a
+proposal. The CFP deadline is Thursday September 9; one week before the
+conference. We will add a schedule here with accepted talks.
 
 ## Updates
 
-Please click the "subscribe" button on TODO to get email updates, or "watch"
-this repo on GitHub at TODO.
+Please click the "subscribe" button on
+https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/2 to get
+email updates, or "watch" this repo on GitHub at
+https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021.
