@@ -15,7 +15,10 @@ Some example distributions of LLVM that might be of interest:
 * apt.llvm.org
 * AOSP LLVM
 * CrOS LLVM
-* <your distro here>
+* BSDs
+* PlayStation LLVM
+* Chromium LLVM
+* your distro here
 
 ## When
 
