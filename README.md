@@ -1,4 +1,4 @@
-# LLVM Distributor Conference
+# LLVM Distributors Conference
 
 A day of lightning talks for folks who distribute and release builds of LLVM,
 with a focus on configuration, testing, and unique constraints.
