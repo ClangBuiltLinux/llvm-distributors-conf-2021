@@ -10,7 +10,7 @@ with a focus on configuration, testing, and unique constraints.
 | 08:00 | Doors Open ||||
 | 08:05 | Welcome | Nick Desaulniers (Google) |||
 | 08:10 | [LLVM Runtimes Build](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/13) | Peter Hosek (Google) |||
-| 08:25 | [LLVM-MinGW](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/18) | Martin Storsjö |||
+| 08:25 | [Building LLVM at rev.ng: a report](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/6) | Alessandro Di Federico (rev.ng) & Filippo Cremonese (rev.ng) |||
 | 08:40 | [Swift on Windows](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/19) | Saleem Abdulrasool (Google) |||
 | 08:55 | [Clang vendor options: control new Clang and LLVM changes in a release](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/12) | Alex Lorenz (Apple) |||
 | 09:10 | break ||||
@@ -26,7 +26,7 @@ with a focus on configuration, testing, and unique constraints.
 | 11:40 | break ||||
 | 11:55 | [Distributing PGO'ed toolchains for Great Good](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/4) | George Burgess IV (Google) |||
 | 12:10 | [Optimizing Clang with BOLT](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/11) | Amir Ayupov (Facebook) |||
-| 12:25 | [Building LLVM at rev.ng: a report](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/6) | Alessandro Di Federico (rev.ng) & Filippo Cremonese (rev.ng) |||
+| 12:25 | [LLVM-MinGW](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/18) | Martin Storsjö |||
 | 12:40 | lunch break ||||
 | 13:10 | [Android's Dream of a Stable Toolchain](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/9) | Pirama Arumuga Nainar (Google) & Stephen Hines (Google) |||
 | 13:25 | [Fuchsia Clang Toolchain](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/14) | Petr Hosek (Google) |||
