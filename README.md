@@ -20,7 +20,7 @@ with a focus on configuration, testing, and unique constraints.
 | 10:10 | [Graphcore IPU LLVM toolchain & libraries](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/22) | Thomas Preud'homme (Graphcore) |||
 | 10:25 | break ||||
 | 10:40 | [LLVM toolchains in Nixpkgs](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/20) | John Ericson (Obsidian Systems) |||
-| 10:55 | [Fedora /Red Hat LLVM Toolchain](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/16) | Tom Stellard (Red Hat) |||
+| 10:55 | [Building, Testing, and Distributing Chromium's C++ Toolchain](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/10) | Hans Wennborg (Google) |||
 | 11:10 | [LLVM in OpenMandriva](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/7) | Bernhard Rosenkraenzer (Open Mandriva) |||
 | 11:25 | [LLVM Toolchain Integration Test Suite](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/5) | Serge Sans Paille (Red Hat) & Sylvestre Ledru (Debian, Ubuntu) |||
 | 11:40 | break ||||
@@ -31,7 +31,7 @@ with a focus on configuration, testing, and unique constraints.
 | 13:10 | [Android's Dream of a Stable Toolchain](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/9) | Pirama Arumuga Nainar (Google) & Stephen Hines (Google) |||
 | 13:25 | [Fuchsia Clang Toolchain](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/14) | Petr Hosek (Google) |||
 | 13:40 | [Snapdragon LLVM Toolchain](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/15) | Sivakumar Ganesan (Qualcomm) |||
-| 13:55 | [Building, Testing, and Distributing Chromium's C++ Toolchain](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/10) | Hans Wennborg (Google) |||
+| 13:55 | [Fedora /Red Hat LLVM Toolchain](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/16) | Tom Stellard (Red Hat) |||
 
 Times are in [PDT](https://www.timeanddate.com/worldclock/meetingtime.html?iso=20210916&p1=283).
 
