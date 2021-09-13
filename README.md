@@ -3,7 +3,7 @@
 A day of lightning talks for folks who distribute and release builds of LLVM,
 with a focus on configuration, testing, and unique constraints.
 
-## Schedule
+## Schedule - Thursday September 16 2021
 
 | time | title | Author | Slides | Video |
 | ---- | ----- | ------ | ------ | ----- |
