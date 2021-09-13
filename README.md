@@ -24,8 +24,8 @@ with a focus on configuration, testing, and unique constraints.
 | 11:10 | [LLVM in OpenMandriva](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/7) | Bernhard Rosenkraenzer (Open Mandriva) |||
 | 11:25 | [LLVM Toolchain Integration Test Suite](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/5) | Serge Sans Paille (Red Hat) & Sylvestre Ledru (Debian, Ubuntu) |||
 | 11:40 | break ||||
-| 11:55 | [Optimizing Clang with BOLT](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/11) | Amir Ayupov (Facebook) |||
-| 12:05 | [Distributing PGO'ed toolchains for Great Good](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/4) | George Burgess IV (Google) |||
+| 11:55 | [Distributing PGO'ed toolchains for Great Good](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/4) | George Burgess IV (Google) |||
+| 12:10 | [Optimizing Clang with BOLT](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/11) | Amir Ayupov (Facebook) |||
 | 12:25 | [Building LLVM at rev.ng: a report](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/6) | Alessandro Di Federico (rev.ng) & Filippo Cremonese (rev.ng) |||
 | 12:40 | lunch break ||||
 | 13:10 | [Android's Dream of a Stable Toolchain](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/9) | Pirama Arumuga Nainar (Google) & Stephen Hines (Google) |||
