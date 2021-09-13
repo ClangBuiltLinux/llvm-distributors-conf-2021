@@ -54,10 +54,6 @@ Some example distributions of LLVM that might be of interest:
 * Chromium LLVM
 * your distro here
 
-## When
-
-Thursday September 16 2021, times to be determined.
-
 ## Call For Papers (CFP)
 
 Please file an issue at
