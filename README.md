@@ -59,8 +59,7 @@ Some example distributions of LLVM that might be of interest:
 Please file an issue at
 https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues with a
 proposal. The CFP deadline is Thursday September 9; one week before the
-conference. We will add a schedule here with accepted talks.
-
+conference and is now closed.
 ## Updates
 
 Please click the "subscribe" button on
