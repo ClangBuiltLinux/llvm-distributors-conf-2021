@@ -23,13 +23,13 @@ See calendar invite for Google Meet invite link.
 | 08:55 | [Clang vendor options: control new Clang and LLVM changes in a release](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/12) | Alex Lorenz (Apple) |||
 | 09:10 | break ||||
 | 09:25 | [Homebrew LLVM](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/21) | Carlo Cabrera |||
-| 09:40 | [Switching to LLVM based toolchains in Yocto based distributions](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/8) | Bernhard Rosenkraenzer (Huawei) |||
+| 09:40 | [Switching to LLVM based toolchains in Yocto based distributions](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/8) | Bernhard Rosenkraenzer (Huawei) | [PDF](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/blob/main/slides/LLVMDC21%20-%20Switching%20to%20LLVM%20based%20toolchains%20in%20Yocto%20based%20distributions.pdf) ||
 | 09:55 | [The LLVM embedded toolchain for Arm](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/17) | Peter Smith (ARM) |||
 | 10:10 | [Graphcore IPU LLVM toolchain & libraries](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/22) | Thomas Preud'homme (Graphcore) |||
 | 10:25 | break ||||
 | 10:40 | [LLVM toolchains in Nixpkgs](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/20) | John Ericson (Obsidian Systems) |||
 | 10:55 | [Building, Testing, and Distributing Chromium's C++ Toolchain](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/10) | Hans Wennborg (Google) |||
-| 11:10 | [LLVM in OpenMandriva](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/7) | Bernhard Rosenkraenzer (Open Mandriva) |||
+| 11:10 | [LLVM in OpenMandriva](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/7) | Bernhard Rosenkraenzer (Open Mandriva) | [PDF](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/blob/main/slides/LLVMDC21%20-%20LLVM%20in%20OpenMandriva.pdf) ||
 | 11:25 | [LLVM Toolchain Integration Test Suite](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/5) | Serge Sans Paille (Red Hat) & Sylvestre Ledru (Debian, Ubuntu) |||
 | 11:40 | break ||||
 | 11:55 | [Distributing PGO'ed toolchains for Great Good](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/4) | George Burgess IV (Google) |||
