@@ -3,6 +3,14 @@
 A day of lightning talks for folks who distribute and release builds of LLVM,
 with a focus on configuration, testing, and unique constraints.
 
+## Joining
+
+### Attendees (YouTube Live Stream)
+[https://youtu.be/UMDRAmmDBgM](https://youtu.be/UMDRAmmDBgM)
+
+### Speakers (Google Meet)
+See calendar invite for Google Meet invite link.
+
 ## Schedule - Thursday September 16 2021
 
 | time | title | Author | Slides | Video |
