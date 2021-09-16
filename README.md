@@ -34,7 +34,7 @@ See calendar invite for Google Meet invite link.
 | 11:40 | break ||||
 | 11:55 | [Distributing PGO'ed toolchains for Great Good](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/4) | George Burgess IV (Google) |||
 | 12:10 | [Optimizing Clang with BOLT](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/11) | Amir Ayupov (Facebook) | [PDF](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/blob/main/slides/2021-09%20BOLT%20for%20Clang.pdf) ||
-| 12:25 | [LLVM-MinGW](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/18) | Martin Storsjö |||
+| 12:25 | [LLVM-MinGW](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/18) | Martin Storsjö | [PDF](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/blob/main/slides/llvm-mingw.pdf) ||
 | 12:40 | lunch break ||||
 | 13:10 | [Android's Dream of a Stable Toolchain](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/9) | Pirama Arumuga Nainar (Google) & Stephen Hines (Google) |||
 | 13:25 | [Fuchsia Clang Toolchain](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/14) | Petr Hosek (Google) |||
