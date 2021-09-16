@@ -28,7 +28,7 @@ See calendar invite for Google Meet invite link.
 | 10:10 | [Graphcore IPU LLVM toolchain & libraries](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/22) | Thomas Preud'homme (Graphcore) | [link](https://raw.githubusercontent.com/ClangBuiltLinux/llvm-distributors-conf-2021/main/slides/graphcore.pdf) ||
 | 10:25 | break ||||
 | 10:40 | [LLVM toolchains in Nixpkgs](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/20) | John Ericson (Obsidian Systems) |||
-| 10:55 | [Building, Testing, and Distributing Chromium's C++ Toolchain](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/10) | Hans Wennborg (Google) |||
+| 10:55 | [Building, Testing, and Distributing Chromium's C++ Toolchain](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/10) | Hans Wennborg (Google) | [PDF](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/blob/main/slides/LLVMDC21-Chromium.pdf) ||
 | 11:10 | [LLVM in OpenMandriva](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/7) | Bernhard Rosenkraenzer (Open Mandriva) | [PDF](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/raw/main/slides/LLVMDC21%20-%20LLVM%20in%20OpenMandriva.pdf) ||
 | 11:25 | [LLVM Toolchain Integration Test Suite](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/5) | Serge Sans Paille (Red Hat) & Sylvestre Ledru (Debian, Ubuntu) |||
 | 11:40 | break ||||
