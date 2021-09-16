@@ -24,7 +24,7 @@ See calendar invite for Google Meet invite link.
 | 09:10 | break ||||
 | 09:25 | [Homebrew LLVM](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/21) | Carlo Cabrera |||
 | 09:40 | [Switching to LLVM based toolchains in Yocto based distributions](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/8) | Bernhard Rosenkraenzer (Huawei) | [PDF](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/blob/main/slides/LLVMDC21%20-%20Switching%20to%20LLVM%20based%20toolchains%20in%20Yocto%20based%20distributions.pdf) ||
-| 09:55 | [The LLVM embedded toolchain for Arm](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/17) | Peter Smith (ARM) |||
+| 09:55 | [The LLVM embedded toolchain for Arm](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/17) | Peter Smith (ARM) | [PDF](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/blob/main/slides/LLVMDC21-The-LLVM-Embedded-Toolchain-for-Arm.pdf) ||
 | 10:10 | [Graphcore IPU LLVM toolchain & libraries](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/22) | Thomas Preud'homme (Graphcore) |||
 | 10:25 | break ||||
 | 10:40 | [LLVM toolchains in Nixpkgs](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/20) | John Ericson (Obsidian Systems) |||
