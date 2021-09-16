@@ -3,15 +3,11 @@
 A day of lightning talks for folks who distribute and release builds of LLVM,
 with a focus on configuration, testing, and unique constraints.
 
-## Joining
+This even took place on Thursday September 16 2021.
 
-### Attendees (YouTube Live Stream)
-[https://youtu.be/UMDRAmmDBgM](https://youtu.be/UMDRAmmDBgM)
+[The previously recorded YouTube Livestream](https://youtu.be/UMDRAmmDBgM).
 
-### Speakers (Google Meet)
-See calendar invite for Google Meet invite link.
-
-## Schedule - Thursday September 16 2021
+## Talks
 
 | time | title | Author | Slides | Video |
 | ---- | ----- | ------ | ------ | ----- |
@@ -62,12 +58,6 @@ Some example distributions of LLVM that might be of interest:
 * Chromium LLVM
 * your distro here
 
-## Call For Papers (CFP)
-
-Please file an issue at
-https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues with a
-proposal. The CFP deadline is Thursday September 9; one week before the
-conference and is now closed.
 ## Updates
 
 Please click the "subscribe" button on
