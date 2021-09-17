@@ -26,7 +26,7 @@ This even took place on Thursday September 16 2021.
 | 10:40 | [LLVM toolchains in Nixpkgs](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/20) | John Ericson (Obsidian Systems) |||
 | 10:55 | [Building, Testing, and Distributing Chromium's C++ Toolchain](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/10) | Hans Wennborg (Google) |||
 | 11:10 | [LLVM in OpenMandriva](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/7) | Bernhard Rosenkraenzer (Open Mandriva) | [PDF](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/raw/main/slides/LLVMDC21%20-%20LLVM%20in%20OpenMandriva.pdf) ||
-| 11:25 | [LLVM Toolchain Integration Test Suite](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/5) | Serge Sans Paille (Red Hat) & Sylvestre Ledru (Debian, Ubuntu) |||
+| 11:25 | [LLVM Toolchain Integration Test Suite](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/5) | Serge Sans Paille (Red Hat) & Sylvestre Ledru (Debian, Ubuntu) | [PDF](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/raw/main/slides/LLVM%20integration%20test%20suite.pdf) ||
 | 11:40 | break ||||
 | 11:55 | [Distributing PGO'ed toolchains for Great Good](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/4) | George Burgess IV (Google) |||
 | 12:10 | [Optimizing Clang with BOLT](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/11) | Amir Ayupov (Facebook) | [PDF](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/blob/main/slides/2021-09%20BOLT%20for%20Clang.pdf) ||
