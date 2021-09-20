@@ -35,7 +35,7 @@ This even took place on Thursday September 16 2021.
 | 13:10 | [Android's Dream of a Stable Toolchain](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/9) | Pirama Arumuga Nainar (Google) & Stephen Hines (Google) | [PDF](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/blob/main/slides/android_llvm_distribution.pdf) ||
 | 13:25 | [Fuchsia Clang Toolchain](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/14) | Petr Hosek (Google) | [PDF](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/blob/main/slides/Fuchsia%20Clang%20Toolchain.pdf) ||
 | 13:40 | [Snapdragon LLVM Toolchain](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/15) | Sivakumar Ganesan (Qualcomm) | [PDF](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/blob/main/slides/Snapdragon_LLVM_compiler_conference_2021.pdf) ||
-| 13:55 | [Fedora /Red Hat LLVM Toolchain](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/16) | Tom Stellard (Red Hat) |||
+| 13:55 | [Fedora /Red Hat LLVM Toolchain](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/16) | Tom Stellard (Red Hat) | [PDF](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/blob/main/slides/fedora-llvm-toolchain.pdf) ||
 
 Times are in [PDT](https://www.timeanddate.com/worldclock/meetingtime.html?iso=20210916&p1=283).
 
