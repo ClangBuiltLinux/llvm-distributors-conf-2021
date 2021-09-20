@@ -3,42 +3,38 @@
 A day of lightning talks for folks who distribute and release builds of LLVM,
 with a focus on configuration, testing, and unique constraints.
 
-## Joining
+This even took place on Thursday September 16 2021.
 
-### Attendees (YouTube Live Stream)
-[https://youtu.be/UMDRAmmDBgM](https://youtu.be/UMDRAmmDBgM)
+[The previously recorded YouTube Livestream](https://youtu.be/UMDRAmmDBgM).
 
-### Speakers (Google Meet)
-See calendar invite for Google Meet invite link.
-
-## Schedule - Thursday September 16 2021
+## Talks
 
 | time | title | Author | Slides | Video |
 | ---- | ----- | ------ | ------ | ----- |
 | 08:00 | Doors Open ||||
 | 08:05 | Welcome | Nick Desaulniers (Google) |||
-| 08:10 | [LLVM Runtimes Build](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/13) | Petr Hosek (Google) |||
-| 08:25 | [Building LLVM at rev.ng: a report](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/6) | Alessandro Di Federico (rev.ng) & Filippo Cremonese (rev.ng) |||
+| 08:10 | [LLVM Runtimes Build](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/13) | Petr Hosek (Google) | [PDF](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/blob/main/slides/LLVM%20Runtimes%20Build.pdf) ||
+| 08:25 | [Building LLVM at rev.ng: a report](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/6) | Alessandro Di Federico (rev.ng) & Filippo Cremonese (rev.ng) | [PDF](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/blob/main/slides/llvm_at_revng_presentation.pdf) ||
 | 08:40 | [Swift on Windows](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/19) | Saleem Abdulrasool (Google) |||
 | 08:55 | [Clang vendor options: control new Clang and LLVM changes in a release](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/12) | Alex Lorenz (Apple) |||
 | 09:10 | break ||||
-| 09:25 | [Homebrew LLVM](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/21) | Carlo Cabrera |||
+| 09:25 | [Homebrew LLVM](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/21) | Carlo Cabrera | [PDF](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/blob/main/slides/homebrew.pdf) ||
 | 09:40 | [Switching to LLVM based toolchains in Yocto based distributions](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/8) | Bernhard Rosenkraenzer (Huawei) | [PDF](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/raw/main/slides/LLVMDC21%20-%20Switching%20to%20LLVM%20based%20toolchains%20in%20Yocto%20based%20distributions.pdf) ||
 | 09:55 | [The LLVM embedded toolchain for Arm](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/17) | Peter Smith (ARM) | [PDF](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/blob/main/slides/LLVMDC21-The-LLVM-Embedded-Toolchain-for-Arm.pdf) ||
-| 10:10 | [Graphcore IPU LLVM toolchain & libraries](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/22) | Thomas Preud'homme (Graphcore) | [link](https://raw.githubusercontent.com/ClangBuiltLinux/llvm-distributors-conf-2021/main/slides/graphcore.pdf) ||
+| 10:10 | [Graphcore IPU LLVM toolchain & libraries](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/22) | Thomas Preud'homme (Graphcore) | [PDF](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/blob/main/slides/graphcore.pdf) ||
 | 10:25 | break ||||
-| 10:40 | [LLVM toolchains in Nixpkgs](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/20) | John Ericson (Obsidian Systems) |||
+| 10:40 | [LLVM toolchains in Nixpkgs](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/20) | John Ericson (Obsidian Systems) | [PDF](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/blob/main/slides/llvm-toolchains-in-nixpkgs.pdf) ||
 | 10:55 | [Building, Testing, and Distributing Chromium's C++ Toolchain](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/10) | Hans Wennborg (Google) | [PDF](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/blob/main/slides/LLVMDC21-Chromium.pdf) ||
 | 11:10 | [LLVM in OpenMandriva](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/7) | Bernhard Rosenkraenzer (Open Mandriva) | [PDF](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/raw/main/slides/LLVMDC21%20-%20LLVM%20in%20OpenMandriva.pdf) ||
-| 11:25 | [LLVM Toolchain Integration Test Suite](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/5) | Serge Sans Paille (Red Hat) & Sylvestre Ledru (Debian, Ubuntu) |||
+| 11:25 | [LLVM Toolchain Integration Test Suite](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/5) | Serge Sans Paille (Red Hat) & Sylvestre Ledru (Debian, Ubuntu) | [PDF](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/raw/main/slides/LLVM%20integration%20test%20suite.pdf) ||
 | 11:40 | break ||||
-| 11:55 | [Distributing PGO'ed toolchains for Great Good](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/4) | George Burgess IV (Google) |||
+| 11:55 | [Distributing PGO'ed toolchains for Great Good](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/4) | George Burgess IV (Google) | [PDF](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/blob/main/slides/distributing_pgoed_toolchains_for_great_good.pdf) ||
 | 12:10 | [Optimizing Clang with BOLT](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/11) | Amir Ayupov (Facebook) | [PDF](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/blob/main/slides/2021-09%20BOLT%20for%20Clang.pdf) ||
-| 12:25 | [LLVM-MinGW](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/18) | Martin Storsjö |||
+| 12:25 | [LLVM-MinGW](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/18) | Martin Storsjö | [PDF](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/blob/main/slides/llvm-mingw.pdf) ||
 | 12:40 | lunch break ||||
-| 13:10 | [Android's Dream of a Stable Toolchain](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/9) | Pirama Arumuga Nainar (Google) & Stephen Hines (Google) |||
-| 13:25 | [Fuchsia Clang Toolchain](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/14) | Petr Hosek (Google) |||
-| 13:40 | [Snapdragon LLVM Toolchain](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/15) | Sivakumar Ganesan (Qualcomm) |||
+| 13:10 | [Android's Dream of a Stable Toolchain](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/9) | Pirama Arumuga Nainar (Google) & Stephen Hines (Google) | [PDF](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/blob/main/slides/android_llvm_distribution.pdf) ||
+| 13:25 | [Fuchsia Clang Toolchain](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/14) | Petr Hosek (Google) | [PDF](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/blob/main/slides/Fuchsia%20Clang%20Toolchain.pdf) ||
+| 13:40 | [Snapdragon LLVM Toolchain](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/15) | Sivakumar Ganesan (Qualcomm) | [PDF](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/blob/main/slides/Snapdragon_LLVM_compiler_conference_2021.pdf) ||
 | 13:55 | [Fedora /Red Hat LLVM Toolchain](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/16) | Tom Stellard (Red Hat) |||
 
 Times are in [PDT](https://www.timeanddate.com/worldclock/meetingtime.html?iso=20210916&p1=283).
@@ -62,12 +58,6 @@ Some example distributions of LLVM that might be of interest:
 * Chromium LLVM
 * your distro here
 
-## Call For Papers (CFP)
-
-Please file an issue at
-https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues with a
-proposal. The CFP deadline is Thursday September 9; one week before the
-conference and is now closed.
 ## Updates
 
 Please click the "subscribe" button on
