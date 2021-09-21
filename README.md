@@ -15,7 +15,7 @@ This even took place on Thursday September 16 2021.
 | 08:05 | Welcome | Nick Desaulniers (Google) |||
 | 08:10 | [LLVM Runtimes Build](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/13) | Petr Hosek (Google) | [PDF](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/blob/main/slides/LLVM%20Runtimes%20Build.pdf) ||
 | 08:25 | [Building LLVM at rev.ng: a report](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/6) | Alessandro Di Federico (rev.ng) & Filippo Cremonese (rev.ng) | [PDF](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/blob/main/slides/llvm_at_revng_presentation.pdf) ||
-| 08:40 | [Swift on Windows](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/19) | Saleem Abdulrasool (Google) |||
+| 08:40 | [Swift on Windows](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/19) | Saleem Abdulrasool (Google) | [PDF](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/blob/main/slides/swift_windows.pdf) ||
 | 08:55 | [Clang vendor options: control new Clang and LLVM changes in a release](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/12) | Alex Lorenz (Apple) |||
 | 09:10 | break ||||
 | 09:25 | [Homebrew LLVM](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/issues/21) | Carlo Cabrera | [PDF](https://github.com/ClangBuiltLinux/llvm-distributors-conf-2021/blob/main/slides/homebrew.pdf) ||
